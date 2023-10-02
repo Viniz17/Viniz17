@@ -1,4 +1,4 @@
-                                    Hello World 👋 I'm Vinicius Deniz, a passionate Software Developer!
+                                   Hello World 👋 I'm Vinicius Deniz, a passionate Software Developer!
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Gif" height="270" width="49.5%" src="https://i.imgur.com/Roz986j.gif">
