@@ -1,10 +1,10 @@
                                Hello World 👋 I'm Vinicius Deniz, a passionate Software Developer!
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Gif" height="270" width="49.5%" src="https://i.imgur.com/Roz986j.gif">
   
   <img align="center" alt="Gif" height="270" width="49.5%" src="https://media1.giphy.com/media/GbIwskRsr94d8UV1KC/giphy.gif?cid=ecf05e47e6rtsfno5yjtdwb8lhr6ea5usikr6zyxefmger9n&ep=v1_gifs_related&rid=giphy.gif&ct=g">
    
+   <img align="center" alt="Gif" height="270" width="49.5%" src="https://i.imgur.com/Roz986j.gif">
  
 
  <br/>
@@ -14,7 +14,7 @@
 </div>
 
 
-- 🔭 I’m currently working on Financial Management and Shadow Duels projects;
+- 🔭 I’m currently working on Finance Management and Shadow Duels projects;
 - 🌱 I’m currently learning TypeScript and C#;
 - 💬 Ask me about Web3 and Metaverse;
 - 📫 How to reach me: viniciusdeni84@gmail.com;
