@@ -35,7 +35,6 @@
             <img tabindex="0" role="img" alt="Node.js" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" aria-label="Node.js logo">
             <img tabindex="0" role="img" alt="Express" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" aria-label="Express logo">
             <img tabindex="0" role="img" alt="Jest" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" aria-label="Jest logo">
-            <img tabindex="0" role="img" alt="Webpack" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" aria-label="Webpack logo">
             <img tabindex="0" role="img" alt="C#" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" aria-label="C# logo">
             <img tabindex="0" role="img" alt=".NET" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" aria-label=".NET logo">
             <img tabindex="0" role="img" alt="Azure" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" aria-label="Azure logo">
