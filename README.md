@@ -1,5 +1,5 @@
 <header role="banner">
-    <h1>Hello World 👋 I'm Vinicius Deniz, a passionate Software Developer!</h1>
+    <p align="center"><b>Hello World 👋 I'm Vinicius Deniz, a passionate Software Developer!</b></p>
     <table>
         <tr>
             <td>
