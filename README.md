@@ -16,7 +16,7 @@
      <li>🔭 I'm currently working on Finance Management and Shadow Duels projects;</li>
      <li>🌱 I’m currently learning TypeScript and C#;</li>
      <li>💬 Ask me about Web3 and Metaverse;</li>
-     <li>📫 How to reach me: <a href="mailto:viniciusdeni84@gmail.com">viniciusdeni84@gmail.com</a>;</li>
+     <li>📫 How to reach me: <a href="mailto:viniciusdeniz84@gmail.com">viniciusdeniz84@gmail.com</a>;</li>
      <li>⚡ Fun fact: I'm a Kickboxing, Drifting and Yu-Gi-Oh! enthusiast.</li>
 </main>
    
