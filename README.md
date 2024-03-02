@@ -27,7 +27,6 @@
             <img tabindex="0" role="img" alt="HTML" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" aria-label="HTML logo">
             <img tabindex="0" role="img" alt="CSS" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" aria-label="CSS logo">
             <img tabindex="0" role="img" alt="SASS" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" aria-label="SASS logo">
-            <img tabindex="0" role="img" alt="TailwindCSS" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" aria-label="TailwindCSS logo">
             <img tabindex="0" role="img" alt="TypeScript" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" aria-label="TypeScript logo">
             <img tabindex="0" role="img" alt="JavaScript" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" aria-label="JavaScript logo">
             <img tabindex="0" role="img" alt="React" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" aria-label="React logo">
