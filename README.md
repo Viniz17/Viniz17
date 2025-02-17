@@ -14,7 +14,7 @@
 
 <main> 
      <li>🔭 I'm currently working on Numble and Tomahawk projects;</li>
-     <li>🌱 I’m constantly improving myself on TypeScript with React Native;</li>
+     <li>🌱 I’m constantly improving myself on React Native with TypeScript;</li>
      <li>💬 Ask me about Web3 and Metaverse;</li>
      <li>📫 How to reach me: <a href="mailto:viniciusdeniz84@gmail.com">viniciusdeniz84@gmail.com</a>;</li>
      <li>⚡ Fun fact: I'm a Drifting and Kickboxing enthusiast.</li>
