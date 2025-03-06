@@ -13,7 +13,7 @@
 </header>
 
 <main> 
-     <li>🔭 I'm currently working on Numble and Tomahawk projects;</li>
+     <li>🔭 I'm currently working on NubbleApp and Tomahawk projects;</li>
      <li>🌱 I’m constantly improving myself on React Native with TypeScript;</li>
      <li>💬 Ask me about Web3 and Metaverse;</li>
      <li>📫 How to reach me: <a href="mailto:viniciusdeniz84@gmail.com">viniciusdeniz84@gmail.com</a>;</li>
