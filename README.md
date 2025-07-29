@@ -13,7 +13,7 @@
 </header>
 
 <main> 
-     <li>🔭 I'm currently working on a couple's app project;</li>
+     <li>🔭 I'm currently working on Nurtr;</li>
      <li>🌱 I’m constantly improving myself on React Native with TypeScript;</li>
      <li>💬 Ask me about Indie Hacking and Flag Theory;</li>
      <li>📫 How to reach me: <a href="mailto:viniciusdeniz84@gmail.com">viniciusdeniz84@gmail.com</a>;</li>
