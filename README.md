@@ -17,7 +17,7 @@
      <li>🌱 I’m constantly improving myself on React Native with TypeScript;</li>
      <li>💬 Ask me about Indie Hacking and Flag Theory;</li>
      <li>📫 How to reach me: <a href="mailto:viniciusdeniz84@gmail.com">viniciusdeniz84@gmail.com</a>;</li>
-     <li>⚡ Fun fact: I'm a JDM enthusiast.</li>
+     <li>⚡ Fun fact: I'm a JDM and Heavy Metal enthusiast.</li>
 </main>
    
    <section role="contentinfo">
