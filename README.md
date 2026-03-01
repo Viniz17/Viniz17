@@ -39,8 +39,6 @@
     <img tabindex="0" role="img" alt="Tailwind CSS" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" aria-label="Tailwind CSS logo">
 <img tabindex="0" role="img" alt="Figma" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" aria-label="Figma logo">
     <img tabindex="0" role="img" alt="Bash" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" aria-label="Bash logo">
-    <img tabindex="0" role="img" alt="Yarn" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" aria-label="Yarn logo">
-    <img tabindex="0" role="img" alt="npm" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" aria-label="npm logo">
     </ul>
 </section>
 
