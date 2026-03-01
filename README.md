@@ -40,6 +40,24 @@
         </ul>
     </section>
 
+<section role="contentinfo">
+    <br/>
+    <br/>
+    <ul style="list-style: none;">
+        <img tabindex="0" role="img" alt="TypeScript" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" aria-label="TypeScript logo">
+        <img tabindex="0" role="img" alt="JavaScript" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" aria-label="JavaScript logo">
+        <img tabindex="0" role="img" alt="React Native" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" aria-label="React Native logo">
+        <img tabindex="0" role="img" alt="Expo" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" aria-label="Expo logo">
+        <img tabindex="0" role="img" alt="Firebase" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" aria-label="Firebase logo">
+        <img tabindex="0" role="img" alt="Node.js" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" aria-label="Node.js logo">
+        <img tabindex="0" role="img" alt="HTML" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" aria-label="HTML logo">
+        <img tabindex="0" role="img" alt="CSS" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" aria-label="CSS logo">
+        <img tabindex="0" role="img" alt="Jest" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" aria-label="Jest logo">
+        <img tabindex="0" role="img" alt="VSCode" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" aria-label="VSCode logo">
+        <img tabindex="0" role="img" alt="Git" height="30" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" aria-label="Git logo">
+    </ul>
+</section>
+
    <footer>
        <img tabindex="0" role="img" alt="Pixel Waterfall" height="270" width="100%" src="https://i.imgur.com/9efeaJL.gif" aria-label="Footer gif of a pixel waterfall">
    </footer>
