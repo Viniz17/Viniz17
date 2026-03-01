@@ -1,15 +1,6 @@
 <header role="banner">
     <p align="center"><b>Hello World 👋 I'm Vinicius Deniz, a passionate Mobile Developer!</b></p>
-    <table>
-        <tr>
-            <td>
                 <img tabindex="0" role="img" alt="Studying" height="270" src="https://i.imgur.com/Roz986j.gif" aria-label="Image of a pixel character studying">
-            </td>
-            <td>
-               <img tabindex="0" role="img" alt="Exercising" height="270" src="https://media1.giphy.com/media/GbIwskRsr94d8UV1KC/giphy.gif?cid=ecf05e47e6rtsfno5yjtdwb8lhr6ea5usikr6zyxefmger9n&ep=v1_gifs_related&rid=giphy.gif&ct=g" aria-label="Image of pixel character exercising">
-           </td>
-       </tr>
-    </table>
 </header>
 
 <main> 
