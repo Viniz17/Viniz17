@@ -1,6 +1,6 @@
 <header role="banner">
     <p align="center"><b>Hello World 👋 I'm Vinicius Deniz, a passionate Mobile Developer!</b></p>
-                <img tabindex="0" role="img" alt="Studying" height="270" src="https://i.imgur.com/Roz986j.gif" aria-label="Image of a pixel character studying">
+                <img align="center" tabindex="0" role="img" alt="Studying" height="270" src="https://i.imgur.com/Roz986j.gif" aria-label="Image of a pixel character studying">
 </header>
 
 <main> 
